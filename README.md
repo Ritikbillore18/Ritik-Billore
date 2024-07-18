@@ -3,6 +3,15 @@
 ## 🚀 About Me
 I am a Full-stack developer with a strong focus on Backend development, specializing in creating robust and efficient server-side applications. I love working with modern technologies like React, JavaScript, and Java.
 
+I'm a Software Developer.
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [My Protfolio]((https://www.ritikbillore.com/))
+* ✉️  You can contact me at [ritikbillore25@gmail.com](mailto:ritikbillore25@gmail.com)
+* 🧠  I'm learning DSA@java and Spring Boot.
+* 🤝  I'm open to collaborating on interesting projects.
+* ⚡  In light love the dark
+
 ## 🛠 Skills
 - **Frontend**: HTML, CSS, JavaScript, React.js, Vite.js
 - **Backend**: Java, Spring Boot
@@ -10,7 +19,7 @@ I am a Full-stack developer with a strong focus on Backend development, speciali
 - **Tools**: Git, GitHub , VS -code , Ecllipse ,Netbeans ,Turbo c++
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
