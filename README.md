@@ -31,8 +31,8 @@ I'm a Software Developer.
 
 ## 💡 Projects
 - [Royal Enfield Bike Showroom](https://github.com/yourusername/royal-enfield-showroom)
-- [SpicesHeaven Online Store](https://github.com/yourusername/spicesheaven)
-- [Personal Portfolio](https://github.com/yourusername/personal-portfolio)
+- [SpicesHeaven Online Store](https://nagrajspices.in/)
+- [Personal Portfolio](https://www.ritikbillore.com/)
 
 ## 🔗 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ritik-billore-7a6669234)
